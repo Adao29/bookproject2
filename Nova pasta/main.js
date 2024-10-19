@@ -14,7 +14,7 @@ function avancar (){
         else{
             if (pagina == 2){
                 document.querySelector('#texto p').innerHTML="o macaco, percebendo o perigo, exclamou: -Nossa, esta carne de onça é realmente uma delícia! Disse o macaco, chupando um osso que havia encontrado. A onça, com medo, meteu o pé e foi embora";
-                document.querySelector('#imagens img').src="Nova Pasta/5-V2wDzFRqaWq2BYIEQJeA.png"
+                document.querySelector('#imagens img').src="NovaPasta/5-V2wDzFRqaWq2BYIEQJeA.png"
                 pagina = 3;
             }
             else{
